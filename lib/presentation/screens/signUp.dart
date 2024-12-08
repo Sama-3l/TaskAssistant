@@ -122,7 +122,7 @@ class _SignUpScreenState extends State<SignUpScreen> {
                     mainAxisSize: MainAxisSize.min,
                     children: [
                       SocialMediaLogin(
-                        icon: google,
+                        icon: facebook,
                         color: CupertinoColors.systemBlue,
                         onTap: () {
                           showCupertinoDialog(
@@ -202,7 +202,7 @@ class _SignUpScreenState extends State<SignUpScreen> {
                           }),
                       kGap16,
                       SocialMediaLogin(
-                        icon: google,
+                        icon: apple,
                         color: CupertinoColors.black,
                         onTap: () {
                           showCupertinoDialog(
