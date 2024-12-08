@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "15490801310",
+    "project_id": "attendance-tracker-937bc",
+    "storage_bucket": "attendance-tracker-937bc.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:15490801310:android:c26e7d1a1a755b0e61e58f",
+        "android_client_info": {
+          "package_name": "com.samael.taskassistant"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "15490801310-1b1hvom40ak5mok29ssj1m7at00kuacf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDrrHoYSJc9hHZlaEcc171-w_8tZKypeQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "15490801310-1b1hvom40ak5mok29ssj1m7at00kuacf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
